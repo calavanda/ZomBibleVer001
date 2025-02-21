@@ -3,7 +3,7 @@ import ButtonSvg from "../assets/svg/ButtonSvg";
 import ButtonGradient from "../assets/svg/ButtonGradient";
 import Heading from "./Heading";
 import Section from "./Section";
-import Tagline from "./Tagline";
+import Tagline from "./TagLine";
 import { roadmap } from "../constants";
 import { check2, grid, loading1 } from "../assets";
 import { Gradient } from "./design/Roadmap";
